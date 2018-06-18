@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.2
+Name=BallerSnake
+Comment=Snake but Baller Status
+Exec=/home/plan3teat3r/ballersnake/ballersnake.py
+Icon=/home/plan3teat3r/ballersnake/snake-icon.png
+Terminal=true
+Type=Application
+Categories=Utility;Application;
+GenericName[en_US]=A nifty simple snake game with a twist...
